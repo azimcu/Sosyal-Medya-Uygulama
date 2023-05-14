@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613389352469",
+    "project_id": "fir-loginyt-7b5e5",
+    "storage_bucket": "fir-loginyt-7b5e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613389352469:android:fab08f6b46ee2247c1181c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613389352469-cfkjjeg526totm5gvm3e9jsaphsqu0d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuH74YwEUPVlDeQhev6ykBct7fTN8S9Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613389352469-cfkjjeg526totm5gvm3e9jsaphsqu0d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
